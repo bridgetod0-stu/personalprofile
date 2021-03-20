@@ -1,2 +1,0 @@
-# personalprofile
-Assignment 1
